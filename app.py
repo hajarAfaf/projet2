@@ -32,3 +32,21 @@ if canvas_result.image_data is not None:
 
     prediction = new_model.predict(img)
     st.write("### Predicted digit:", np.argmax(prediction))
+#lancer ton application Streamlit et de la rendre accessible via un lien public
+#obtenir authotoken et le poser
+!ngrok config add-authtoken 
+from pyngrok import ngrok
+import time
+
+# Kill previous tunnels if any
+ngrok.kill()
+
+# Start the Streamlit app in background (replace 'app.py' with your actual file name)
+!streamlit run app.py &> /dev/null &
+
+# Wait a bit for Streamlit to launch
+time.sleep(5)
+
+# Create the public tunnel
+public_url = ngrok.connect("http://localhost:8501")
+print("🌐 Your app is live at:", public_url)
