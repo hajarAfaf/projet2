@@ -1,0 +1,6 @@
+#dependances(environnement)
+streamlit
+streamlit-drawable-canvas
+tensorflow
+opencv-python
+numpy
