@@ -11,7 +11,6 @@ Create a web-based application using **Streamlit** to recognize handwritten digi
 ## 📦 Contenu du dépôt
 - `notebook.ipynb` : Notebook contenant le code d’entraînement du modèle.
 - `app.py` : Application Streamlit pour tester le modèle.
-- `model/` : Répertoire contenant le modèle entraîné (`.pt`, `.pkl`, etc.).
 - `requirements.txt` : Liste des dépendances.
 - `video/demo.mp4` : Présentation de 7 min expliquant le code et l’environnement.
 - `README.md` : Ce fichier de documentation.
