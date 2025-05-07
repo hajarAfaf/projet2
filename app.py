@@ -6,7 +6,7 @@ import numpy as np
 import cv2
 
 #Chargement du modele et  Titre de l’application
-new_model = tf.keras.models.load_model("model\model_mnist.keras")
+new_model = tf.keras.models.load_model("model/model_mnist.keras")
 st.title("MNIST Handwritten Digit Recognizer")
 
 #Interface de dessin
