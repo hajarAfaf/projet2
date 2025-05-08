@@ -15,6 +15,9 @@ Create a web-based application using **Streamlit** to recognize handwritten digi
 - `video/demo.mp4` : Présentation de 7 min expliquant le code et l’environnement.
 - `README.md` : Ce fichier de documentation.
 
+## Lien Google Collab:
+https://colab.research.google.com/drive/1ufcxw3ROhPcKQLfpMh64k4VL56FBAe90?pli=1&authuser=1#scrollTo=hDjPAI8l_E5i
+
 ## 🔧 Configuration de l’environnement
 
 #### Pour Windows :
@@ -35,5 +38,4 @@ source venv/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
 
-## Lien Google Collab:
-https://colab.research.google.com/drive/1ufcxw3ROhPcKQLfpMh64k4VL56FBAe90?pli=1&authuser=1#scrollTo=hDjPAI8l_E5i
+
