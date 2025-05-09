@@ -16,8 +16,9 @@ Create a web-based application using **Streamlit** to recognize handwritten digi
 - `README.md` : Ce fichier de documentation.
 
 ## Lien Google Collab:
+https://colab.research.google.com/drive/1ufcxw3ROhPcKQLfpMh64k4VL56FBAe90?usp=sharing
 https://colab.research.google.com/drive/1ufcxw3ROhPcKQLfpMh64k4VL56FBAe90?pli=1&authuser=1#scrollTo=hDjPAI8l_E5i
-https://colab.research.google.com/drive/1ufcxw3ROhPcKQLfpMh64k4VL56FBAe90
+
 ## 🔧 Configuration de l’environnement
 
 #### Pour Windows :
