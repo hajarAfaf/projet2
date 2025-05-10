@@ -21,21 +21,20 @@ https://colab.research.google.com/drive/1ufcxw3ROhPcKQLfpMh64k4VL56FBAe90?pli=1&
 
 ## 🔧 Environment Setup:
 
-#### For Linux/macOS :
-
-git clone <URL_DU_DEPOT>
-cd DL-deployment
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-streamlit run app.py
-
 #### For Windows :
 ```bash
 git clone <URL_DU_DEPOT>
 cd DL-deployment
 python -m venv venv
 venv\Scripts\activate
+pip install -r requirements.txt
+streamlit run app.py
+
+#### For Linux/macOS :
+git clone <URL_DU_DEPOT>
+cd DL-deployment
+python3 -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
 
