@@ -8,20 +8,29 @@ This project is part of the Deep Learning Lab (Project 2) for the Master IT prog
 
 Create a web-based application using **Streamlit** to recognize handwritten digits...
 
-## 📦 Contenu du dépôt
-- `notebook.ipynb` : Notebook contenant le code d’entraînement du modèle.
-- `app.py` : Application Streamlit pour tester le modèle.
-- `requirements.txt` : Liste des dépendances.
-- `video/demo.mp4` : Présentation de 7 min expliquant le code et l’environnement.
-- `README.md` : Ce fichier de documentation.
+## 📦 Repository Contents
+- `notebook.ipynb` : Notebook containing the model training code.
+- `app.py` :  Streamlit application for testing the model.
+- `requirements.txt` : List of dependencies.
+- `video/demo.mp4` : 7-minute presentation explaining the code and environment.
+- `README.md` : This documentation file.
 
 ## Lien Google Collab:
 https://colab.research.google.com/drive/1ufcxw3ROhPcKQLfpMh64k4VL56FBAe90?usp=sharing
 https://colab.research.google.com/drive/1ufcxw3ROhPcKQLfpMh64k4VL56FBAe90?pli=1&authuser=1#scrollTo=hDjPAI8l_E5i
 
-## 🔧 Configuration de l’environnement
+## 🔧 Environment Setup:
 
-#### Pour Windows :
+#### For Linux/macOS :
+
+git clone <URL_DU_DEPOT>
+cd DL-deployment
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+streamlit run app.py
+
+#### For Windows :
 ```bash
 git clone <URL_DU_DEPOT>
 cd DL-deployment
@@ -30,13 +39,6 @@ venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app.py
 
-#### Pour Linux/macOS :
 
-git clone <URL_DU_DEPOT>
-cd DL-deployment
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-streamlit run app.py
 
 
