@@ -8,6 +8,13 @@ This project is part of the Deep Learning Lab (Project 2) for the Master IT prog
 
 Create a web-based application using **Streamlit** to recognize handwritten digits...
 
+## 👥 Team Members
+- AFAF Hajar
+- EZZERROUTI Salwa
+
+## 🎓 Project Supervisor
+This project was carried out under the supervision of **Professor Mahmoudi Abdelhak**, Faculty of Sciences.
+
 ## 📦 Repository Contents
 - `notebook.ipynb` : Notebook containing the model training code.
 - `app.py` :  Streamlit application for testing the model.
