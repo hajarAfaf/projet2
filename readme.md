@@ -17,7 +17,6 @@ Create a web-based application using **Streamlit** to recognize handwritten digi
 
 ## Google Collab link:
 https://colab.research.google.com/drive/1ufcxw3ROhPcKQLfpMh64k4VL56FBAe90?usp=sharing
-https://colab.research.google.com/drive/1ufcxw3ROhPcKQLfpMh64k4VL56FBAe90?pli=1&authuser=1#scrollTo=hDjPAI8l_E5i
 
 ## 🔧 Environment Setup:
 
