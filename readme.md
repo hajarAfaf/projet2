@@ -23,7 +23,21 @@ This project was carried out under the supervision of **Professor Mahmoudi Abdel
 - `README.md` : This documentation file.
 
 ## Google Collab link:
-https://colab.research.google.com/drive/1ufcxw3ROhPcKQLfpMh64k4VL56FBAe90?usp=sharing
+https://colab.research.google.com/drive/1ufcxw3ROhPcKQLfpMh64k4VL56FBAe90?usp=
+
+## 🛠️Tools & Technologies
+
+- TensorFlow / Keras
+- Streamlit
+- OpenCV
+- Ngrok
+- Python
+
+## 🔍Model Training
+
+- Dataset: MNIST (70,000 handwritten digits)
+-Architecture:
+Flatten → Dense(128, ReLU) → Dense(10, Softmax)
 
 ## 🔧 Environment Setup:
 
