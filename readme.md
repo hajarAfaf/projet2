@@ -25,6 +25,9 @@ This project was carried out under the supervision of **Professor Mahmoudi Abdel
 ## Google Collab link:
 https://colab.research.google.com/drive/1ufcxw3ROhPcKQLfpMh64k4VL56FBAe90?usp=
 
+## Video Link:
+https://drive.google.com/file/d/1pQBBDLfWSJV1kFnzfQlEnzqEA0fi1hKD/view?usp=sharing
+
 ## 🛠️Tools & Technologies
 
 - TensorFlow / Keras
